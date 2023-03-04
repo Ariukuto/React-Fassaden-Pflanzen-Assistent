@@ -10,7 +10,7 @@ import { Datenaufbereiter } from './Datenaufbereitung/Datenaufbereiter';
 // Sollte im Produktivbetrieb auskommentiert werden
 // Datenaufbereiter.create_json_array_to_console();
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById('buettner-sven-react-plant-search-tool'));
 root.render(
   <React.StrictMode>
     <App />
