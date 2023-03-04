@@ -1,0 +1,1032 @@
+[
+	{
+		"name": "Ceratodon Purpureus",
+		"type": "Moos",
+		"winterHardinessZone": "6",
+		"careLevel": "Gering",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün, Braun",
+		"flowerColors": "Grün, Braun, Rosa",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Ceratodon Purpureus 'conicus'",
+		"type": "Moos",
+		"winterHardinessZone": "6",
+		"careLevel": "Gering",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün",
+		"flowerColors": "Braun",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Bryum Argenteum",
+		"type": "Moos",
+		"winterHardinessZone": "6",
+		"careLevel": "Gering",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün, Grau",
+		"flowerColors": "Braun",
+		"exposition": "Halbschattig"
+	},
+	{
+		"name": "Bryum Capillare",
+		"type": "Moos",
+		"winterHardinessZone": "5",
+		"careLevel": "Gering",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün, Braun",
+		"flowerColors": "Braun",
+		"exposition": "Halbschattig, Schattig"
+	},
+	{
+		"name": "Hypnum Cupressiforme",
+		"type": "Moos",
+		"winterHardinessZone": "5",
+		"careLevel": "Gering",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün",
+		"flowerColors": "Braun",
+		"exposition": "Halbschattig"
+	},
+	{
+		"name": "Brachythecium i.S.",
+		"type": "Moos",
+		"winterHardinessZone": "4, 5, 6, 7",
+		"careLevel": "Gering",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün, Braun",
+		"flowerColors": "Braun",
+		"exposition": "Halbschattig, Schattig"
+	},
+	{
+		"name": "Melica Ciliata",
+		"type": "Staude",
+		"winterHardinessZone": "6",
+		"careLevel": "Mittel",
+		"foliagePhase": "Sommergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Weiß",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Eriophyllum Lanatum",
+		"type": "Staude",
+		"winterHardinessZone": "5",
+		"careLevel": "Gering",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grau",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Alyssum Montanum 'Berggold'",
+		"type": "Staude",
+		"winterHardinessZone": "6",
+		"careLevel": "Gering",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Sesleria Heufleriana (G)",
+		"type": "Staude",
+		"winterHardinessZone": "5",
+		"careLevel": "Mittel",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grau",
+		"flowerColors": "Braun",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Achnatherum Calamagrostis Stipa Calamagrostis",
+		"type": "Staude",
+		"winterHardinessZone": "5, 6, 7",
+		"careLevel": "Gering",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Weiß",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Poa Labillardieri (G)",
+		"type": "Staude",
+		"winterHardinessZone": "6",
+		"careLevel": "Mittel",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Aurinia Saxatilis Alyssum Saxatile",
+		"type": "Staude",
+		"winterHardinessZone": "3",
+		"careLevel": "Mittel",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Dianthus Deltoides 'Leuchtfunk'",
+		"type": "Staude",
+		"winterHardinessZone": "3",
+		"careLevel": "Mittel",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün, Braun",
+		"flowerColors": "Rosa",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Dianthus Knappii",
+		"type": "Staude",
+		"winterHardinessZone": "3",
+		"careLevel": "Mittel",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Cerastium Biebersteinii",
+		"type": "Staude",
+		"winterHardinessZone": "4",
+		"careLevel": "Gering",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grau",
+		"flowerColors": "Weiß",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Koeleria Glauca 'Heimische Wildstaude'",
+		"type": "Staude",
+		"winterHardinessZone": "4",
+		"careLevel": "Gering",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Carex Oshimensis 'Evergold'",
+		"type": "Staude",
+		"winterHardinessZone": "7",
+		"careLevel": "Gering",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig, Halbschattig, Schattig"
+	},
+	{
+		"name": "Dryas Octopetala",
+		"type": "Gehoelz",
+		"winterHardinessZone": "4, 5, 6, 7, 8",
+		"careLevel": "Mittel",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün",
+		"flowerColors": "Weiß",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Berberis Verruculosa",
+		"type": "Gehoelz",
+		"winterHardinessZone": "5, 6",
+		"careLevel": "Mittel",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün, Braun",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Contoneaster Microphyllus 'Streibs Finding'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "7",
+		"careLevel": "Hoch",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün",
+		"flowerColors": "Weiß",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Hypericum Kalmianum 'Gemo'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "5",
+		"careLevel": "Mittel",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Gelb",
+		"exposition": "Schattig"
+	},
+	{
+		"name": "Juniperus Squamata 'Blue Star'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "5",
+		"careLevel": "Gering",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün",
+		"flowerColors": "Grau",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Hypericum 'Hidcote'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "6",
+		"careLevel": "Mittel",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün, Gelb",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig, Halbschattig, Schattig"
+	},
+	{
+		"name": "Vibumum Odoratissimum",
+		"type": "Gehoelz",
+		"winterHardinessZone": "8",
+		"careLevel": "Mittel",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün",
+		"flowerColors": "Weiß",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Euonymus Fortunei 'Coloratus'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "5, 6, 7, 8",
+		"careLevel": "Gering",
+		"foliagePhase": "Immmergrün",
+		"foliageColors": "Grün, Rosa",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Euonymus Fortunei 'Emerald Gaiety'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "5, 6, 7, 8",
+		"careLevel": "Gering",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün, Weiß, Violett",
+		"flowerColors": "Gelb, Weiß",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Euonymus Japonicus 'President Gauthier'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "6, 7, 8",
+		"careLevel": "Gering",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Kerria Japonica 'Picta'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "5",
+		"careLevel": "Hoch",
+		"foliagePhase": "Sommergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Juniperus Horizontalis 'Blue Chip'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "5",
+		"careLevel": "Gering",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Sesleria Autumnalis (G)",
+		"type": "Staude",
+		"winterHardinessZone": "7",
+		"careLevel": "Mittel",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Grau",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Aubrieta Hybride 'Royal Blue'",
+		"type": "Staude",
+		"winterHardinessZone": "6",
+		"careLevel": "Gering",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Violett",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Carex Flacca (G)",
+		"type": "Staude",
+		"winterHardinessZone": "5",
+		"careLevel": "Mittel",
+		"foliagePhase": "Sommergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Eriophyllum Lanatum",
+		"type": "Staude",
+		"winterHardinessZone": "5",
+		"careLevel": "Mittel",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Delosperma Nubigenum",
+		"type": "Staude",
+		"winterHardinessZone": "6",
+		"careLevel": "Gering",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Festuca Cinerea 'Blauglut'",
+		"type": "Staude",
+		"winterHardinessZone": "6",
+		"careLevel": "Gering",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Braun",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Sedum Spectabile 'Brillant'",
+		"type": "Staude",
+		"winterHardinessZone": "6",
+		"careLevel": "Mittel",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Rosa",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Sedum Spectabile 'Septemberglut'",
+		"type": "Staude",
+		"winterHardinessZone": "6",
+		"careLevel": "Mittel",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Rosa",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Yucca Filamentosa",
+		"type": "Staude",
+		"winterHardinessZone": "6",
+		"careLevel": "Mittel",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün, Rosa, Grau",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Yucca Filamentosa 'Golden Sword'",
+		"type": "Staude",
+		"winterHardinessZone": "6",
+		"careLevel": "Mittel",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Weiß",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Delosperma Lineare",
+		"type": "Staude",
+		"winterHardinessZone": "7",
+		"careLevel": "Gering",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Festuca Amethystina (heimische Wildstaude)",
+		"type": "Staude",
+		"winterHardinessZone": "4, 5",
+		"careLevel": "Gering",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Violett",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Sedum Album 'Coral Carpet'",
+		"type": "Staude",
+		"winterHardinessZone": "6",
+		"careLevel": "Gering",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün, Violett, Rot",
+		"flowerColors": "Weiß",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Sedum Reflexum i.S.",
+		"type": "Staude",
+		"winterHardinessZone": "7",
+		"careLevel": "Gering",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grau, Grün",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Alyssum Montanum 'Berggold' ",
+		"type": "Staude",
+		"winterHardinessZone": "6",
+		"careLevel": "Mittel",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Festuca Mairei",
+		"type": "Staude",
+		"winterHardinessZone": "7",
+		"careLevel": "Gering",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Grün",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Briza Media (heimische Wildstaude)",
+		"type": "Staude",
+		"winterHardinessZone": "5",
+		"careLevel": "Mittel",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Grün",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Festuca Filiformis",
+		"type": "Staude",
+		"winterHardinessZone": "5",
+		"careLevel": "Gering",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Grün",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Festuca Gautieri syn. Scoparia",
+		"type": "Staude",
+		"winterHardinessZone": "5",
+		"careLevel": "Gering",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün",
+		"flowerColors": "Grün",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Geranium x Cantabrigiense 'Biokovo'",
+		"type": "Staude",
+		"winterHardinessZone": "5",
+		"careLevel": "Mittel",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Rosa",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Geranium x Cantabrigiense 'Karmina'",
+		"type": "Staude",
+		"winterHardinessZone": "5",
+		"careLevel": "Mittel",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Rosa",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Sedum Spectabile 'Iceberg'",
+		"type": "Staude",
+		"winterHardinessZone": "5",
+		"careLevel": "Mittel",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Weiß",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Sesleria Heufleriana",
+		"type": "Staude",
+		"winterHardinessZone": "5",
+		"careLevel": "Mittel",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Braun",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Helleborus Foetidus",
+		"type": "Staude",
+		"winterHardinessZone": "6",
+		"careLevel": "Mittel",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün, Braun",
+		"flowerColors": "Grün",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Luzula Nivea (heimische Wildstaude)",
+		"type": "Staude",
+		"winterHardinessZone": "6",
+		"careLevel": "Mittel",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün",
+		"flowerColors": "Grau",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Sedum Pachyclados",
+		"type": "Staude",
+		"winterHardinessZone": "6",
+		"careLevel": "Gering",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Rosa",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Stipa (Nassella) Tenuifolia",
+		"type": "Staude",
+		"winterHardinessZone": "7",
+		"careLevel": "Mittel",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Braun",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Stipa Pulcherima f.nudicostata",
+		"type": "Staude",
+		"winterHardinessZone": "7",
+		"careLevel": "Mittel",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Grau",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Thymus Vulgaris",
+		"type": "Staude",
+		"winterHardinessZone": "7",
+		"careLevel": "Gering",
+		"foliagePhase": "Wintergrün, Immergrün, ",
+		"foliageColors": "Grün",
+		"flowerColors": "Grau",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Calamagrostis x Acutiflora 'Karl Foerster'",
+		"type": "Staude",
+		"winterHardinessZone": "4, 5, 6",
+		"careLevel": "Mittel",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Braun",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Iberis Saxatilis (überhängend)",
+		"type": "Staude",
+		"winterHardinessZone": "6",
+		"careLevel": "Gering",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Weiß",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Sedum Hybridum",
+		"type": "Staude",
+		"winterHardinessZone": "6",
+		"careLevel": "Gering",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün, Rot",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Berberis Verruculosa",
+		"type": "Gehoelz",
+		"winterHardinessZone": "5, 6",
+		"careLevel": "Mittel",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün, Braun",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Contoneaster Microphyllus 'Streibs Finding'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "7",
+		"careLevel": "Hoch",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün",
+		"flowerColors": "Weiß",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Hypericum Kalmianum 'Gemo'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "5",
+		"careLevel": "Mittel",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Gelb",
+		"exposition": "Schattig"
+	},
+	{
+		"name": "Juniperus Squamata 'Blue Star'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "5",
+		"careLevel": "Gering",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün",
+		"flowerColors": "Grau",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Hypericum 'Hidcote'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "6",
+		"careLevel": "Mittel",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün, Gelb",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig, Halbschattig, Schattig"
+	},
+	{
+		"name": "Vibumum Odoratissimum",
+		"type": "Gehoelz",
+		"winterHardinessZone": "8",
+		"careLevel": "Mittel",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün",
+		"flowerColors": "Weiß",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Euonymus Fortunei 'Coloratus'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "5, 6, 7, 8",
+		"careLevel": "Gering",
+		"foliagePhase": "Immmergrün",
+		"foliageColors": "Grün, Rosa",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Euonymus Fortunei 'Emerald Gaiety'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "5, 6, 7, 8",
+		"careLevel": "Gering",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün, Weiß, Violett",
+		"flowerColors": "Gelb, Weiß",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Euonymus Japonicus 'President Gauthier'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "6, 7, 8",
+		"careLevel": "Gering",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Kerria Japonica 'Picta'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "5",
+		"careLevel": "Hoch",
+		"foliagePhase": "Sommergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Juniperus Horizontalis 'Blue Chip'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "5",
+		"careLevel": "Gering",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Lonicera Pileata",
+		"type": "Gehoelz",
+		"winterHardinessZone": "6",
+		"careLevel": "Hoch",
+		"foliagePhase": "Immergrün, , Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Cotoneaster Dammeri i.S.",
+		"type": "Gehoelz",
+		"winterHardinessZone": "5, 6",
+		"careLevel": "Mittel",
+		"foliagePhase": "Immergrün, , Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Weiß",
+		"exposition": "Sonnig, Halbschattig, Schattig"
+	},
+	{
+		"name": "Juniperus Media 'Pfitzeriana Compacta'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "5",
+		"careLevel": "Gering",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Juniperus x Media 'Gold Coast'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "5",
+		"careLevel": "Gering",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Ligustrum Vulgare 'Lodense'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "5",
+		"careLevel": "Hoch",
+		"foliagePhase": "Sommergrün, Wintergrün",
+		"foliageColors": "Grün, Braun",
+		"flowerColors": "Weiß",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Cotoneaster Microphyllus 'Cochleatus' ",
+		"type": "Gehoelz",
+		"winterHardinessZone": "7",
+		"careLevel": "Hoch",
+		"foliagePhase": "Immmergrün",
+		"foliageColors": "Grün, Braun",
+		"flowerColors": "Weiß",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Cotoneaster Conspicuus 'Decorus'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "5",
+		"careLevel": "Hoch",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün",
+		"flowerColors": "Weiß",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Berberis Buxifolia 'Nana'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "5",
+		"careLevel": "Gering",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün, Braun",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Berberis Thunbergii 'Atropurpurea Nana'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "5",
+		"careLevel": "Gering",
+		"foliagePhase": "Sommergrün",
+		"foliageColors": "Grün, Rot, Gelb",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Cotoneaster Microphyllus 'Streibs Findling'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "7",
+		"careLevel": "Mittel",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün",
+		"flowerColors": "Weiß",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Erica i.S.",
+		"type": "Gehoelz",
+		"winterHardinessZone": "6",
+		"careLevel": "Mittel",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün, Braun",
+		"flowerColors": "Gelb, Grau, Rosa",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Hypericum  Calycinum",
+		"type": "Gehoelz",
+		"winterHardinessZone": "6",
+		"careLevel": "Mittel",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig, Halbschattig, Schattig"
+	},
+	{
+		"name": "Pyracantha Coccinea 'Red Column'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "6",
+		"careLevel": "Hoch",
+		"foliagePhase": "Immergrün, , Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Weiß",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Pyracantha Coccinea 'Golden Charmer'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "6",
+		"careLevel": "Gering",
+		"foliagePhase": "Immergrün, , Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Weiß",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Pyracantha Coccinea 'Orange Charmer'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "6",
+		"careLevel": "Gering",
+		"foliagePhase": "Immergrün, , Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Weiß",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Cytisus Scoparius 'Boskoop Ruby'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "6",
+		"careLevel": "Hoch",
+		"foliagePhase": "Sommergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Rosa",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Cytisus Scoparius 'Roter Favorit",
+		"type": "Gehoelz",
+		"winterHardinessZone": "6",
+		"careLevel": "Mittel",
+		"foliagePhase": "Sommergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Rosa",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Cytisus scoparius 'Golden Cascade'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "7",
+		"careLevel": "Mittel",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Lespedeza Thunbergii",
+		"type": "Gehoelz",
+		"winterHardinessZone": "7",
+		"careLevel": "Hoch",
+		"foliagePhase": "Sommergrün",
+		"foliageColors": "Grün, Gelb",
+		"flowerColors": "Rosa",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Viburnum x Burkwoodii",
+		"type": "Gehoelz",
+		"winterHardinessZone": "6",
+		"careLevel": "Gering",
+		"foliagePhase": "Wintergrün",
+		"foliageColors": "Grün, Orange",
+		"flowerColors": "Weiß, Rosa",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Ilex Aquifolium 'Argentea Marginata' ",
+		"type": "Gehoelz",
+		"winterHardinessZone": "7",
+		"careLevel": "Mittel",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün",
+		"flowerColors": "Weiß",
+		"exposition": "Halbschattig, Schattig"
+	},
+	{
+		"name": "Juniperus Conferta 'Blue Pacific'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "5, 6, 7, 8",
+		"careLevel": "Mittel",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Jasminum Nudiflorum",
+		"type": "Gehoelz",
+		"winterHardinessZone": "7",
+		"careLevel": "Mittel",
+		"foliagePhase": "Sommergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Lonicera Nitida 'MaiGrün'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "7",
+		"careLevel": "Gering",
+		"foliagePhase": "Immmergrün, Wintergrün",
+		"foliageColors": "Grün",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Cornus Sangiduinea 'Midwinter Fire'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "4",
+		"careLevel": "Gering",
+		"foliagePhase": "Sommergrün",
+		"foliageColors": "Grün, Rot, Orange",
+		"flowerColors": "Weiß",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Callicarpa Bodinieri Giraldii 'Profusion'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "6",
+		"careLevel": "Hoch",
+		"foliagePhase": "Sommergrün",
+		"foliageColors": "Grün, Gelb, Orange",
+		"flowerColors": "Violett, Rosa",
+		"exposition": "Sonnig, Halbschattig"
+	},
+	{
+		"name": "Chamaecyparis Pisifera 'Sungold'",
+		"type": "Gehoelz",
+		"winterHardinessZone": "4",
+		"careLevel": "Gering",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün",
+		"flowerColors": "Violett",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Calluna Vulgaris",
+		"type": "Gehoelz",
+		"winterHardinessZone": "6",
+		"careLevel": "Mittel",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün",
+		"flowerColors": "Rosa",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Daboecia i.S",
+		"type": "Gehoelz",
+		"winterHardinessZone": "7",
+		"careLevel": "Hoch",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün, Braun",
+		"flowerColors": "Weiß, Violett, Rosa",
+		"exposition": "Sonnig"
+	},
+	{
+		"name": "Berberis Frikartii Verrucandi",
+		"type": "Gehoelz",
+		"winterHardinessZone": "6",
+		"careLevel": "Gering",
+		"foliagePhase": "Immergrün, ",
+		"foliageColors": "Grün",
+		"flowerColors": "Gelb",
+		"exposition": "Sonnig, Halbschattig"
+	}
+]

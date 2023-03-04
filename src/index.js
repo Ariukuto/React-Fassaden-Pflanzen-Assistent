@@ -3,6 +3,12 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { Datenaufbereiter } from './Datenaufbereitung/Datenaufbereiter';
+
+
+// Erstellt eine Json Array in der Console, dies wird nur benötigt um später damit zu arbeiten
+// Sollte im Produktivbetrieb auskommentiert werden
+// Datenaufbereiter.create_json_array_to_console();
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
