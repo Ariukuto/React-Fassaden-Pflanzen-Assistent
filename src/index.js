@@ -6,8 +6,10 @@ import reportWebVitals from './reportWebVitals';
 import { Datenaufbereiter } from './Datenaufbereitung/Datenaufbereiter';
 
 
-// Erstellt eine Json Array in der Console, dies wird nur benötigt um später damit zu arbeiten
-// Sollte im Produktivbetrieb auskommentiert werden
+/**
+ * Erstellt eine Json Array in der Console, dies wird nur benötigt um später damit zu arbeiten
+ * Sollte im Produktivbetrieb auskommentiert werden
+ */
 // Datenaufbereiter.create_json_array_to_console();
 
 const root = ReactDOM.createRoot(document.getElementById('buettner-sven-react-plant-search-tool'));
