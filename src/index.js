@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+import App from './Components/App/App.js';
 import reportWebVitals from './reportWebVitals';
+
+
 // import { Datenaufbereiter } from './Datenaufbereitung/Datenaufbereiter';
-
-
 /**
  * Erstellt eine Json Array in der Console, dies wird nur benötigt um später damit zu arbeiten
  * Sollte im Produktivbetrieb auskommentiert werden
