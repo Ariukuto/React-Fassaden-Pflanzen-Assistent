@@ -1,6 +1,6 @@
 // import { useState } from "react";
 
-export const Nabar = ({filterProps}) => {
+export const Navbar = ({filterProps}) => {
 
 	// const [state, setState] = useState(filterProps);
 

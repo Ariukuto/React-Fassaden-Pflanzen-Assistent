@@ -1,11 +1,10 @@
 import './App.scss';
+import { Navbar } from '../Navbar/Navbar';
 
-function App() {
+export const App = () => {
   return (  
     <div className="App">
-      
+      <Navbar />
     </div>
   );
 }
-
-export default App;

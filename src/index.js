@@ -2,9 +2,9 @@ import 'bootstrap/dist/js/bootstrap.bundle.min';
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.scss';
-import App from './Components/App/App.js';
 import reportWebVitals from './reportWebVitals';
-import { Nabar } from './Components/Navbar/Navbar';
+import { App } from './Components/App/App.js';
+
 
 
 // import { Datenaufbereiter } from './Datenaufbereitung/Datenaufbereiter';
@@ -17,7 +17,6 @@ import { Nabar } from './Components/Navbar/Navbar';
 const root = ReactDOM.createRoot(document.getElementById('buettner-sven-react-plant-search-tool'));
 root.render(
   <React.StrictMode>
-    <Nabar />
     <App />
   </React.StrictMode>
 );
