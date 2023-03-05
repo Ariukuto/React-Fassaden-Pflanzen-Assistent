@@ -1,0 +1,12 @@
+{
+	"defaultGridLayout": "GRID",
+	"navbar": {
+		"backgroundColor": "#f8f9fa",
+		"title": "Fassadenpflanzen Assistent",
+		"titleColor": "#447649",
+		"border": "1px solid #447649"
+	},
+	"sidebar": {
+		"backgroundColor": ""
+	}
+}
