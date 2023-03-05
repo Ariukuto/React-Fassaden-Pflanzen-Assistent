@@ -14,7 +14,7 @@ export const ListItem = ({obj, variant="light", txt="secondary", layoutState}) =
 
 	return (
 		<div className={`card bg-${variant} text-${txt}`} style={{/*maxWidth: "18rem"*/}}>
-			<div className="card-header d-flex justify-content-between">
+			<div className="card-header d-flex justify-content-between align-items-start">
 				{obj.name}
 				<Badge style={getStyle()}>
 					{obj.type} 
