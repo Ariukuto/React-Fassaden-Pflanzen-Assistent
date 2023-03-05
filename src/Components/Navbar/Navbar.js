@@ -1,8 +1,4 @@
-// import { useState } from "react";
-
 export const Navbar = ({filterProps}) => {
-
-	// const [state, setState] = useState(filterProps);
 
 	const brand = "Fassadenpflanzen Assistent";
 
