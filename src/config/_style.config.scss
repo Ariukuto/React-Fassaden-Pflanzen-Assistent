@@ -4,14 +4,14 @@ $prefix: "sbr-plant-assistent-";
 // FARBEN DEFINITON
 ////////////////////////////////////////////////////////////////////////////////
 // $primary:       $blue !default;
-// $secondary:     $gray-600 !default;
+$secondary:     	 #6c757d;
 // $success:       $green !default;
 // $info:          $cyan !default;
 // $warning:       $yellow !default;
 // $danger:        $red !default;
 // $light:         $gray-100 !default;
 // $dark:          $gray-900 !default;
-// $border-color:  $gray-300
+$border-color: 		#dee2e6;
 $primary: orange;
 
 
@@ -19,4 +19,9 @@ $primary: orange;
 // HEADER CONFIG
 ////////////////////////////////////////////////////////////////////////////////
 $header-color: $primary;
+
+////////////////////////////////////////////////////////////////////////////////
+// Components CONFIG
+////////////////////////////////////////////////////////////////////////////////
+$badge-bg: $secondary;
 
