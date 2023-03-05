@@ -22,18 +22,34 @@ export const PlantList = ({ appState, layoutState="GRID" }) => {
     // LIST Layout
     if(layoutState === "LIST") {
       return(
-        <div className="plant-list grid-list">
-          {data.map((plant, index, array) => <ListItem layoutState={layoutState} key={index} obj={plant}/>)}
-        </div>
+        <>
+          <div id="list" className="plant-list grid-list">
+            {data.map((plant, index, array) => <ListItem layoutState={layoutState} key={index} obj={plant}/>)}
+          </div>
+        </>
       ) 
     }
 
     // GRID Layout
     if(layoutState === "GRID") {
+      let gridTemplateColumns = "1fr";
+      if(appState.appWidth > 600)
+        gridTemplateColumns = "1fr 1fr";
+      if(appState.appWidth > 800)
+        gridTemplateColumns = "1fr 1fr 1fr";
+      if(appState.appWidth > 1002)
+        gridTemplateColumns = "1fr 1fr";
+      if(appState.appWidth > 1329)
+        gridTemplateColumns = "1fr 1fr 1fr";
+      if(appState.appWidth > 1800)
+        gridTemplateColumns = "1fr 1fr 1fr 1fr";
       return(
-        <div className="plant-list grid-tiles">
+        <>
+        appWidth: {appState.appWidth}
+        <div className="plant-list grid-tiles" style={{gridTemplateColumns}}>
           {data.map((plant, index, array) => <ListItem key={index} obj={plant}/>)}
         </div>
+        </>
       ) 
     }    
 }

@@ -8,17 +8,7 @@
 		grid-gap: 1rem;
 
 		&.grid-list {
-			grid-template-columns: 1fr;
-			
+			grid-template-columns: 1fr;	
 		}
-		
-		&.grid-tiles {
-			grid-template-columns: 1fr 1fr 1fr;
-		}
-
 	}
-
-
-
-
 }
