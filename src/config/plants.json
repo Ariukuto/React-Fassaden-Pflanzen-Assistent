@@ -181,7 +181,7 @@
 	},
 	{
 		"name": "Dryas Octopetala",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "4, 5, 6, 7, 8",
 		"careLevel": "Mittel",
 		"foliagePhase": "Immergrün, ",
@@ -191,7 +191,7 @@
 	},
 	{
 		"name": "Berberis Verruculosa",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "5, 6",
 		"careLevel": "Mittel",
 		"foliagePhase": "Immergrün, ",
@@ -201,7 +201,7 @@
 	},
 	{
 		"name": "Contoneaster Microphyllus 'Streibs Finding'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "7",
 		"careLevel": "Hoch",
 		"foliagePhase": "Immergrün, ",
@@ -211,7 +211,7 @@
 	},
 	{
 		"name": "Hypericum Kalmianum 'Gemo'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "5",
 		"careLevel": "Mittel",
 		"foliagePhase": "Wintergrün",
@@ -221,7 +221,7 @@
 	},
 	{
 		"name": "Juniperus Squamata 'Blue Star'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "5",
 		"careLevel": "Gering",
 		"foliagePhase": "Immergrün, ",
@@ -231,7 +231,7 @@
 	},
 	{
 		"name": "Hypericum 'Hidcote'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "6",
 		"careLevel": "Mittel",
 		"foliagePhase": "Wintergrün",
@@ -241,7 +241,7 @@
 	},
 	{
 		"name": "Vibumum Odoratissimum",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "8",
 		"careLevel": "Mittel",
 		"foliagePhase": "Immergrün, ",
@@ -251,7 +251,7 @@
 	},
 	{
 		"name": "Euonymus Fortunei 'Coloratus'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "5, 6, 7, 8",
 		"careLevel": "Gering",
 		"foliagePhase": "Immmergrün",
@@ -261,7 +261,7 @@
 	},
 	{
 		"name": "Euonymus Fortunei 'Emerald Gaiety'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "5, 6, 7, 8",
 		"careLevel": "Gering",
 		"foliagePhase": "Immergrün, ",
@@ -271,7 +271,7 @@
 	},
 	{
 		"name": "Euonymus Japonicus 'President Gauthier'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "6, 7, 8",
 		"careLevel": "Gering",
 		"foliagePhase": "Immergrün, ",
@@ -281,7 +281,7 @@
 	},
 	{
 		"name": "Kerria Japonica 'Picta'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "5",
 		"careLevel": "Hoch",
 		"foliagePhase": "Sommergrün",
@@ -291,7 +291,7 @@
 	},
 	{
 		"name": "Juniperus Horizontalis 'Blue Chip'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "5",
 		"careLevel": "Gering",
 		"foliagePhase": "Immergrün, ",
@@ -621,7 +621,7 @@
 	},
 	{
 		"name": "Berberis Verruculosa",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "5, 6",
 		"careLevel": "Mittel",
 		"foliagePhase": "Immergrün, ",
@@ -631,7 +631,7 @@
 	},
 	{
 		"name": "Contoneaster Microphyllus 'Streibs Finding'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "7",
 		"careLevel": "Hoch",
 		"foliagePhase": "Immergrün, ",
@@ -641,7 +641,7 @@
 	},
 	{
 		"name": "Hypericum Kalmianum 'Gemo'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "5",
 		"careLevel": "Mittel",
 		"foliagePhase": "Wintergrün",
@@ -651,7 +651,7 @@
 	},
 	{
 		"name": "Juniperus Squamata 'Blue Star'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "5",
 		"careLevel": "Gering",
 		"foliagePhase": "Immergrün, ",
@@ -661,7 +661,7 @@
 	},
 	{
 		"name": "Hypericum 'Hidcote'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "6",
 		"careLevel": "Mittel",
 		"foliagePhase": "Wintergrün",
@@ -671,7 +671,7 @@
 	},
 	{
 		"name": "Vibumum Odoratissimum",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "8",
 		"careLevel": "Mittel",
 		"foliagePhase": "Immergrün, ",
@@ -681,7 +681,7 @@
 	},
 	{
 		"name": "Euonymus Fortunei 'Coloratus'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "5, 6, 7, 8",
 		"careLevel": "Gering",
 		"foliagePhase": "Immmergrün",
@@ -691,7 +691,7 @@
 	},
 	{
 		"name": "Euonymus Fortunei 'Emerald Gaiety'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "5, 6, 7, 8",
 		"careLevel": "Gering",
 		"foliagePhase": "Immergrün, ",
@@ -701,7 +701,7 @@
 	},
 	{
 		"name": "Euonymus Japonicus 'President Gauthier'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "6, 7, 8",
 		"careLevel": "Gering",
 		"foliagePhase": "Immergrün, ",
@@ -711,7 +711,7 @@
 	},
 	{
 		"name": "Kerria Japonica 'Picta'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "5",
 		"careLevel": "Hoch",
 		"foliagePhase": "Sommergrün",
@@ -721,7 +721,7 @@
 	},
 	{
 		"name": "Juniperus Horizontalis 'Blue Chip'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "5",
 		"careLevel": "Gering",
 		"foliagePhase": "Immergrün, ",
@@ -731,7 +731,7 @@
 	},
 	{
 		"name": "Lonicera Pileata",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "6",
 		"careLevel": "Hoch",
 		"foliagePhase": "Immergrün, , Wintergrün",
@@ -741,7 +741,7 @@
 	},
 	{
 		"name": "Cotoneaster Dammeri i.S.",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "5, 6",
 		"careLevel": "Mittel",
 		"foliagePhase": "Immergrün, , Wintergrün",
@@ -751,7 +751,7 @@
 	},
 	{
 		"name": "Juniperus Media 'Pfitzeriana Compacta'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "5",
 		"careLevel": "Gering",
 		"foliagePhase": "Immergrün, ",
@@ -761,7 +761,7 @@
 	},
 	{
 		"name": "Juniperus x Media 'Gold Coast'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "5",
 		"careLevel": "Gering",
 		"foliagePhase": "Immergrün, ",
@@ -771,7 +771,7 @@
 	},
 	{
 		"name": "Ligustrum Vulgare 'Lodense'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "5",
 		"careLevel": "Hoch",
 		"foliagePhase": "Sommergrün, Wintergrün",
@@ -781,7 +781,7 @@
 	},
 	{
 		"name": "Cotoneaster Microphyllus 'Cochleatus' ",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "7",
 		"careLevel": "Hoch",
 		"foliagePhase": "Immmergrün",
@@ -791,7 +791,7 @@
 	},
 	{
 		"name": "Cotoneaster Conspicuus 'Decorus'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "5",
 		"careLevel": "Hoch",
 		"foliagePhase": "Immergrün, ",
@@ -801,7 +801,7 @@
 	},
 	{
 		"name": "Berberis Buxifolia 'Nana'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "5",
 		"careLevel": "Gering",
 		"foliagePhase": "Immergrün, ",
@@ -811,7 +811,7 @@
 	},
 	{
 		"name": "Berberis Thunbergii 'Atropurpurea Nana'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "5",
 		"careLevel": "Gering",
 		"foliagePhase": "Sommergrün",
@@ -821,7 +821,7 @@
 	},
 	{
 		"name": "Cotoneaster Microphyllus 'Streibs Findling'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "7",
 		"careLevel": "Mittel",
 		"foliagePhase": "Immergrün, ",
@@ -831,7 +831,7 @@
 	},
 	{
 		"name": "Erica i.S.",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "6",
 		"careLevel": "Mittel",
 		"foliagePhase": "Immergrün, ",
@@ -841,7 +841,7 @@
 	},
 	{
 		"name": "Hypericum  Calycinum",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "6",
 		"careLevel": "Mittel",
 		"foliagePhase": "Wintergrün",
@@ -851,7 +851,7 @@
 	},
 	{
 		"name": "Pyracantha Coccinea 'Red Column'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "6",
 		"careLevel": "Hoch",
 		"foliagePhase": "Immergrün, , Wintergrün",
@@ -861,7 +861,7 @@
 	},
 	{
 		"name": "Pyracantha Coccinea 'Golden Charmer'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "6",
 		"careLevel": "Gering",
 		"foliagePhase": "Immergrün, , Wintergrün",
@@ -871,7 +871,7 @@
 	},
 	{
 		"name": "Pyracantha Coccinea 'Orange Charmer'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "6",
 		"careLevel": "Gering",
 		"foliagePhase": "Immergrün, , Wintergrün",
@@ -881,7 +881,7 @@
 	},
 	{
 		"name": "Cytisus Scoparius 'Boskoop Ruby'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "6",
 		"careLevel": "Hoch",
 		"foliagePhase": "Sommergrün",
@@ -891,7 +891,7 @@
 	},
 	{
 		"name": "Cytisus Scoparius 'Roter Favorit",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "6",
 		"careLevel": "Mittel",
 		"foliagePhase": "Sommergrün",
@@ -901,7 +901,7 @@
 	},
 	{
 		"name": "Cytisus scoparius 'Golden Cascade'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "7",
 		"careLevel": "Mittel",
 		"foliagePhase": "Immergrün, ",
@@ -911,7 +911,7 @@
 	},
 	{
 		"name": "Lespedeza Thunbergii",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "7",
 		"careLevel": "Hoch",
 		"foliagePhase": "Sommergrün",
@@ -921,7 +921,7 @@
 	},
 	{
 		"name": "Viburnum x Burkwoodii",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "6",
 		"careLevel": "Gering",
 		"foliagePhase": "Wintergrün",
@@ -931,7 +931,7 @@
 	},
 	{
 		"name": "Ilex Aquifolium 'Argentea Marginata' ",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "7",
 		"careLevel": "Mittel",
 		"foliagePhase": "Immergrün, ",
@@ -941,7 +941,7 @@
 	},
 	{
 		"name": "Juniperus Conferta 'Blue Pacific'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "5, 6, 7, 8",
 		"careLevel": "Mittel",
 		"foliagePhase": "Immergrün, ",
@@ -951,7 +951,7 @@
 	},
 	{
 		"name": "Jasminum Nudiflorum",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "7",
 		"careLevel": "Mittel",
 		"foliagePhase": "Sommergrün",
@@ -961,7 +961,7 @@
 	},
 	{
 		"name": "Lonicera Nitida 'MaiGrün'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "7",
 		"careLevel": "Gering",
 		"foliagePhase": "Immmergrün, Wintergrün",
@@ -971,7 +971,7 @@
 	},
 	{
 		"name": "Cornus Sangiduinea 'Midwinter Fire'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "4",
 		"careLevel": "Gering",
 		"foliagePhase": "Sommergrün",
@@ -981,7 +981,7 @@
 	},
 	{
 		"name": "Callicarpa Bodinieri Giraldii 'Profusion'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "6",
 		"careLevel": "Hoch",
 		"foliagePhase": "Sommergrün",
@@ -991,7 +991,7 @@
 	},
 	{
 		"name": "Chamaecyparis Pisifera 'Sungold'",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "4",
 		"careLevel": "Gering",
 		"foliagePhase": "Immergrün, ",
@@ -1001,7 +1001,7 @@
 	},
 	{
 		"name": "Calluna Vulgaris",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "6",
 		"careLevel": "Mittel",
 		"foliagePhase": "Immergrün, ",
@@ -1011,7 +1011,7 @@
 	},
 	{
 		"name": "Daboecia i.S",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "7",
 		"careLevel": "Hoch",
 		"foliagePhase": "Immergrün, ",
@@ -1021,7 +1021,7 @@
 	},
 	{
 		"name": "Berberis Frikartii Verrucandi",
-		"type": "Gehoelz",
+		"type": "Gehölz",
 		"winterHardinessZone": "6",
 		"careLevel": "Gering",
 		"foliagePhase": "Immergrün, ",
