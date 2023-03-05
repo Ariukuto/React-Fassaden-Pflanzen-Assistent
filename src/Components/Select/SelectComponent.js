@@ -17,12 +17,20 @@ export const SelectComponent = ({ value, object, placeholder, multi=false, onVal
 		<Select
 			isClearable={true}
 			placeholder={placeholder ?? "Bitte auswählen"}
-			closeMenuOnSelect={false}
+			closeMenuOnSelect={multi ? false :true}
 			components={animatedComponents}
 			isMulti={multi}
 			options={options}
 			value={value}
 			onChange={(v) => onValueChanged(v)}
+			theme={(theme) => ({
+				...theme,
+				colors: {
+					...theme.colors,
+					primary25: '#00800030',
+					primary: '#00800061',
+				},
+			})}
 		/>
 	);
 }
