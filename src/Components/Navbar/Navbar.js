@@ -1,14 +1,21 @@
-export const Navbar = ({filterProps}) => {
+import { Sidebar } from "../Sidebar/Sidebar";
+
+
+
+export const Navbar = ({appState, onSelected}) => {
 
 	const brand = "Fassadenpflanzen Assistent";
 
 	return(
-		<nav className="navbar bg-body-tertiary fixed-top">
+		<nav className="navbar bg-body-tertiary border">
 			<div className="container-fluid">
 				<Brand title={brand}/>
 				<ToggleButton></ToggleButton>
-				<OffcanvasContent title={"Filter"}>
-					Hier werden später die Filter stehen!
+				<OffcanvasContent title={brand}>
+					<Sidebar
+						appState={appState} 
+						onSelected={(v)  => onSelected(v)}
+					/>					
 				</OffcanvasContent>
 			</div>
 		</nav>
@@ -33,7 +40,7 @@ const ToggleButton = ({children}) => {
 
 const OffcanvasContent= ({children, title}) => {
 	return(
-		<div className="offcanvas offcanvas-end" tabIndex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+		<div className="offcanvas offcanvas-start" tabIndex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
 		<div className="offcanvas-header">
 			<h5 className="offcanvas-title" id="offcanvasNavbarLabel"> {title} </h5>
 			<button type="button" className="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
