@@ -1,11 +1,12 @@
 import './App.scss';
-import { useState } from 'react';
+import {useEffect, useLayoutEffect, useRef, useState} from 'react'
 import { Navbar } from '../Navbar/Navbar';
 import { Sidebar } from '../Sidebar/Sidebar';
 import { PlantList } from '../PlantList/PlantList';
 
 export const App = () => {
 
+  const ref = useRef(null);
   const [plantType, setPlantType] = useState("");
   const [winterHardinessZone, setWinterHardinessZone] = useState("");
   const [careLevel, setCareLevel] = useState("");
@@ -13,8 +14,23 @@ export const App = () => {
   const [foliagePhase, setFoliagePhase] = useState("");
   const [foliageColors, setFoliageColors] = useState([]);
   const [flowerColors, setFlowerColors] = useState([]);
+  const [appWidth, setAppWidth] = useState(0);
 
-  const state = {plantType, winterHardinessZone, careLevel, exposition, foliagePhase, foliageColors, flowerColors}
+  useLayoutEffect(() => setAppWidth(ref.current.clientWidth), []);
+  useEffect(() => {
+    window.addEventListener('resize', () => {
+      setAppWidth(ref.current.clientWidth);
+      // console.clear();
+      // console.log(ref.current.clientWidth);
+    });
+    // return () => {
+    //   window.removeEventListener('resize', handleWindowResize);
+    // };
+  }, []);
+
+  const state = {plantType, winterHardinessZone, careLevel, exposition, foliagePhase, foliageColors, flowerColors, appWidth}
+
+
 
   const stateUpdate = ({type, selected}) => {
     if(type === "plantType")
@@ -34,7 +50,7 @@ export const App = () => {
   }
 
   return (  
-    <div className="App border">
+    <div ref={ref} className="App border">
       <Navbar appState={state} onSelected={(v) => stateUpdate(v)} />
       <div className='App-body'>
         <div className='sidebar-container bg-light'>
