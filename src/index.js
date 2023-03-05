@@ -4,6 +4,7 @@ import ReactDOM from 'react-dom/client';
 import './index.scss';
 import App from './Components/App/App.js';
 import reportWebVitals from './reportWebVitals';
+import { Nabar } from './Components/Navbar/Navbar';
 
 
 // import { Datenaufbereiter } from './Datenaufbereitung/Datenaufbereiter';
@@ -16,6 +17,7 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('buettner-sven-react-plant-search-tool'));
 root.render(
   <React.StrictMode>
+    <Nabar />
     <App />
   </React.StrictMode>
 );
