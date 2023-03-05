@@ -1,43 +1,49 @@
-export const Nabar = () => {
+// import { useState } from "react";
 
-	const title = "Fassadenpflanzen Assistent";
-	
+export const Nabar = ({filterProps}) => {
+
+	// const [state, setState] = useState(filterProps);
+
+	const brand = "Fassadenpflanzen Assistent";
+
 	return(
 		<nav className="navbar bg-body-tertiary fixed-top">
 			<div className="container-fluid">
-				<Brand {...title}/>
-				<ToggleButton />
-				<OffcanvasContent />
+				<Brand title={brand}/>
+				<ToggleButton></ToggleButton>
+				<OffcanvasContent title={"Filter"}>
+					Hier werden später die Filter stehen!
+				</OffcanvasContent>
 			</div>
 		</nav>
 	)
 }
 
-const Brand = (title) => {
+const Brand = ({title}) => {
 	return(
-		<a className="navbar-brand" href="./"> 
+		<span className="navbar-brand"> 
 			{title} 
-		</a>
+		</span>
 	)
 }
 
-const ToggleButton = () => {
+const ToggleButton = ({children}) => {
 	return(
 		<button className="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
-			<span className="navbar-toggler-icon"></span>
+			{children ??<span className="navbar-toggler-icon"></span>}
 		</button>
 		)
 }
 
-const OffcanvasContent= () => {
+const OffcanvasContent= ({children, title}) => {
 	return(
 		<div className="offcanvas offcanvas-end" tabIndex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
 		<div className="offcanvas-header">
-			<h5 className="offcanvas-title" id="offcanvasNavbarLabel">Offcanvas</h5>
+			<h5 className="offcanvas-title" id="offcanvasNavbarLabel"> {title} </h5>
 			<button type="button" className="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
 		</div>
 		<div className="offcanvas-body">
-			
+			{children}
 		</div>
 	</div>
 	)
