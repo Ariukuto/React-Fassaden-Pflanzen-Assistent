@@ -1,4 +1,5 @@
 import 'bootstrap/dist/js/bootstrap.bundle.min';
+import 'material-icons/iconfont/filled.css';
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.scss';
