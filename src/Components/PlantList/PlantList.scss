@@ -1,0 +1,24 @@
+@import "../../config/style.config";
+
+#buettner-sven-react-plant-search-tool 
+{
+	.plant-list {
+		padding: 1rem;
+		display: grid;
+		grid-gap: 1rem;
+
+		&.grid-list {
+			grid-template-columns: 1fr;
+			
+		}
+		
+		&.grid-tiles {
+			grid-template-columns: 1fr 1fr 1fr;
+		}
+
+	}
+
+
+
+
+}
