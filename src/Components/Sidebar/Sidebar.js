@@ -1,14 +1,41 @@
+import "./Sidebar.scss";
 import { PlantTypes, Bluetenfarben, Expositions, Laubfarben, Laubphasen, Pflegestufen, WinterHardinessZones } from '../../plantAttributes';
 import { SelectComponent } from "../Select/SelectComponent";
 
 
-export const Sidebar = ({appState, onSelected}) => {
+export const Sidebar = ({appState, onSelected, onFilterReset, onLayoutChange}) => {
 
 	const { plantType, winterHardinessZone, careLevel, exposition, foliagePhase, foliageColors, flowerColors } = appState;
+
+	const FilterResetBtn = () => {
+		return(
+			<button className="btn btn-secondary" onClick={() => onFilterReset()}> 
+				<span className="material-icons">filter_alt_off</span>
+			</button>
+		)
+	}
+	const LayoutButton = () => {
+		if(appState.layout === "LIST") {
+			return(
+				<button className="btn btn-secondary" onClick={() => onLayoutChange("GRID")}> 
+					<span className="material-icons"> grid_view</span> 
+				</button>
+			)
+		} else {
+			return(
+				<button className="btn btn-secondary" onClick={() => onLayoutChange("LIST")}> 
+					<span className="material-icons"> format_list_bulleted </span> 
+				</button>
+			)
+		}
+	}
 	
 	return (
-		<div className='Sidebar'>
-			
+		<div className='Sidebar pb-3'>
+			<div className='d-flex justify-content-around align-items-center mb-3'>
+				<FilterResetBtn />
+				<LayoutButton />
+			</div>
 			<div className="Filter">
 				<SelectComponent
 					className="SelectComponent"
@@ -61,6 +88,7 @@ export const Sidebar = ({appState, onSelected}) => {
 					multi={true} 
 					onValueChanged={(optionArray) => onSelected({type: "flowerColors", selected: optionArray})}
 				/>
+				<br />
 			</div>
 		</div>
 	)

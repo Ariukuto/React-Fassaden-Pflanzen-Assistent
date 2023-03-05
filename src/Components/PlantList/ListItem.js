@@ -1,7 +1,7 @@
 import { Badge } from "../Badge/Badge"
 import { PlantTypes } from '../../plantAttributes';
 
-export const ListItem = ({obj, variant="light", txt="secondary", layoutState}) => {
+export const ListItem = ({obj, variant="light", txt="secondary"}) => {
 
 	const getStyle = () => {
 		if(obj.type === PlantTypes.Moos)

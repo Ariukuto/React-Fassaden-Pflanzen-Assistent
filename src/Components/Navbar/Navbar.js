@@ -1,39 +1,47 @@
-import { Sidebar } from "../Sidebar/Sidebar";
+import config from "../../config/app.config.json";
+import "./Navbar.scss";
 
 
-
-export const Navbar = ({appState, onSelected}) => {
+export const Navbar = ({children, appState}) => {
 
 	const brand = "Fassadenpflanzen Assistent";
 
+	const navBarStyle = {
+	backgroundColor: config.navbar.backgroundColor,
+		borderBottom: config.navbar.border, 
+	}
+
+	const navBarTitleStyle = {
+		color:config.navbar.titleColor,
+		fontSize:30
+	}
+
 	return(
-		<nav className="navbar bg-body-tertiary border">
+		<nav className="navbar" style={navBarStyle}>
 			<div className="container-fluid">
-				<Brand title={brand}/>
-				<ToggleButton></ToggleButton>
+				<span style={navBarTitleStyle}> 
+					{config.navbar.title} 
+				</span>
+				{appState.appWidth < 1001 ? <ToggleButton></ToggleButton> : null}
 				<OffcanvasContent title={brand}>
-					<Sidebar
-						appState={appState} 
-						onSelected={(v)  => onSelected(v)}
-					/>					
+					{children}				
 				</OffcanvasContent>
 			</div>
 		</nav>
 	)
 }
 
-const Brand = ({title}) => {
-	return(
-		<span className="navbar-brand"> 
-			{title} 
-		</span>
-	)
-}
 
 const ToggleButton = ({children}) => {
 	return(
-		<button className="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
-			{children ??<span className="navbar-toggler-icon"></span>}
+		<button 
+			className="navbar-toggler" 
+			type="button" 
+			data-bs-toggle="offcanvas" 
+			data-bs-target="#offcanvasNavbar" 
+			aria-controls="offcanvasNavbar"
+		>
+			{children ?? <span className="navbar-toggler-icon"></span>}
 		</button>
 		)
 }
