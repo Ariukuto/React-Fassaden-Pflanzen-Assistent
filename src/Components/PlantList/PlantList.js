@@ -43,18 +43,20 @@ export const PlantList = ({ appState }) => {
 }
 
 const getGridTemplateColumns = ({appWidth}) => {
+  let cols = "";
   if(appWidth < 600)
-    return "1fr";
+   cols = "1fr";
   if(appWidth > 600)
-    return "1fr 1fr";
+    cols =  "1fr 1fr";
   if(appWidth > 800)
-    return "1fr 1fr 1fr";
+    cols =  "1fr 1fr 1fr";
   if(appWidth > 1002)
-    return "1fr 1fr";
+    cols =  "1fr 1fr";
   if(appWidth > 1329)
-    return "1fr 1fr 1fr";
+    cols =  "1fr 1fr 1fr";
   if(appWidth > 1800)
-    return "1fr 1fr 1fr 1fr";
+    cols = "1fr 1fr 1fr 1fr";
+  return cols;
 }
 
 
