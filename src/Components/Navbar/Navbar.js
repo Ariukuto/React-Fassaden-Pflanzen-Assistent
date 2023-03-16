@@ -13,7 +13,7 @@ export const Navbar = ({children, appState}) => {
 
 	const navBarTitleStyle = {
 		color:config.navbar.titleColor,
-		fontSize:30
+		fontSize: "155%"
 	}
 
 	return(
