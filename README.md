@@ -1,72 +1,31 @@
 # Fassaden Pflanzen Assistent
 
-## Getting Started with Create React App
+## Beschreibung
+Dieses Tool wird im ehrenamtlich im Auftrag für https://fassaden-begruenung.org entwickelt.  
+Es soll Nutzern dabei helfen, anhand bestimmter Kriterien, die richtige oder die richtigen Pflanzen zu finden.  
+Das Tool verkleinert also die Auswahl anhand der angegeben Kriterien.
+Eine Demo kann <a href="https://ariukuto.github.io/React-Fassaden-Pflanzen-Assistent/"> hier <a> angesehen werden.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Konfiguration & Pflege der Daten
+-  Die Liste aller Pflanzen findet sich unter `src/config/plants.json`
+-  Hintergrundfarbe usw. lässt sich unter `src/config/app.config.json` anpassen
 
-## Available Scripts
+## Nutzung
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Lokal testen
+Im Projekt Ordner in der Commandozeile folgenden Befehl eingeben und ausführen
+````
+npm start
+````
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Änderungen veröffentlichen
+Wenn lokal alles funktioniert kann genau wie oben in der cmd folgender Befehl eingegeben und ausgeführt werden 
+````
+npm run deploy
+````
+Veröffentlicht die Änderungen auf  
+``https://ariukuto.github.io/React-Fassaden-Pflanzen-Assistent/``
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<a href="https://ariukuto.github.io/React-Fassaden-Pflanzen-Assistent/"> Link zur Seite <a>
