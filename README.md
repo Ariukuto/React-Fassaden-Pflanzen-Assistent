@@ -10,9 +10,22 @@ Eine Demo kann <a href="https://ariukuto.github.io/React-Fassaden-Pflanzen-Assis
 -  Die Liste aller Pflanzen findet sich unter `src/config/plants.json`
 -  Hintergrundfarbe usw. lässt sich unter `src/config/app.config.json` anpassen
 
+## Das Pflanzen Objekt
+Beispiel:
+````json
+{
+	"name": "Ceratodon Purpureus",
+	"type": "Moos",
+	"winterHardinessZone": "6",
+	"careLevel": "Gering",
+	"foliagePhase": "Immergrün, ",
+	"foliageColors": "Grün, Braun",
+	"flowerColors": "Grün, Braun, Rosa",
+	"exposition": "Sonnig, Halbschattig"
+}
+````
+
 ## Nutzung
-
-
 
 ### Lokal testen
 Im Projekt Ordner in der Commandozeile folgenden Befehl eingeben und ausführen
