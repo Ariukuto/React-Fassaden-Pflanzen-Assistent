@@ -2,7 +2,6 @@ import "./Sidebar.scss";
 import { PlantTypes, Bluetenfarben, Expositions, Laubfarben, Laubphasen, Pflegestufen, WinterHardinessZones } from '../../plantAttributes';
 import { SelectComponent } from "../Select/SelectComponent";
 
-
 export const Sidebar = ({appState, onSelected, onFilterReset, onLayoutChange}) => {
 
 	const { plantType, winterHardinessZone, careLevel, exposition, foliagePhase, foliageColors, flowerColors } = appState;

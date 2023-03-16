@@ -7,6 +7,13 @@
 		"border": "1px solid #447649"
 	},
 	"sidebar": {
-		"backgroundColor": ""
+		"backgroundColor": "",
+		"labelColor": "#447649",
+		"border": "1px solid #447649"
+	},
+	"list": {
+		"grid": {
+			"img": false
+		}
 	}
 }

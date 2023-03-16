@@ -1,6 +1,7 @@
 import React from 'react';
 import Select from 'react-select'
 import makeAnimated from 'react-select/animated'
+import config from '../../config/app.config.json';
 
 export const SelectComponent = ({ value, object, placeholder, multi=false, onValueChanged, label, labelIcon }) => {
 
@@ -10,12 +11,9 @@ export const SelectComponent = ({ value, object, placeholder, multi=false, onVal
 		{value: value, label:value}
 	));
 
-	// console.log("updateState", updateState);
-	// console.log("setPlantType", setPlantType);
-
 	return(
 		<>
-			<label className="form-label" style={{paddingLeft:"4px", marginBottom: "0.5rem"}}> 
+			<label className="form-label" style={{paddingLeft:"4px", marginBottom: "0.5rem", color:config.sidebar.labelColor, fontWeight:700}}> 
 				{label}
 			</label>
 			<Select
@@ -33,7 +31,7 @@ export const SelectComponent = ({ value, object, placeholder, multi=false, onVal
 					colors: {
 						...theme.colors,
 						primary25: '#00800030',
-						primary: '#00800061',
+						primary: config.sidebar.labelColor,
 					},
 				})}
 			/>

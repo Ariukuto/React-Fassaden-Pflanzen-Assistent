@@ -19,27 +19,40 @@ export const PlantList = ({ appState }) => {
       )
     }
 
-    // LIST Layout
-    if(appState.layout === "LIST") {
-      return(
-        <>
-          <div id="list" className="plant-list grid-list">
-            {data.map((plant, index, array) => <ListItem key={index} obj={plant}/>)}
-          </div>
-        </>
-      ) 
-    }
+    // // LIST Layout
+    // if(appState.layout === "LIST") {
+    //   return(
+    //       <div id="list" className="plant-list grid-list">
+    //         {data.map((plant, index, array) => {
+    //             delay = delay + index;
+    //             return(
+    //               <div class="delay" style={{animationDelay: delay}}>
+    //                 <ListItem appstate={appState} key={index} obj={plant}/>
+    //               </div>
+    //             )
+    //         })}
+    //       </div>
+    //   ) 
+    // }
 
-    // GRID Layout
-    if(appState.layout === "GRID") {
-      return(
-        <>
-        <div className="plant-list grid-tiles pb-5" style={{gridTemplateColumns: getGridTemplateColumns(appState)}}>
-          {data.map((plant, index, array) => <ListItem key={index} obj={plant}/>)}
-        </div>
-        </>
-      ) 
-    }    
+    // // GRID Layout
+    // if(appState.layout === "GRID") {
+    //   return(
+    //     <div className="plant-list grid-tiles pb-5" style={{gridTemplateColumns: getGridTemplateColumns(appState), animationDelay: 1}}>
+    //       {data.map((plant, index, array) => <ListItem appstate={appState} key={index} obj={plant}/>)}
+    //     </div>
+    //   ) 
+    // }    
+
+    return(
+      <div 
+        className={`plant-list ${appState.layout === "GRID" ? "grid-tiles" : " grid-list"}`}
+        style={{gridTemplateColumns: appState.layout === "GRID" ? getGridTemplateColumns(appState) : "1fr"}}>
+        {data.map((plant, index, array) => 
+          <ListItem appState={appState} key={index} obj={plant}/>
+        )}
+      </div>
+    );
 }
 
 const getGridTemplateColumns = ({appWidth}) => {

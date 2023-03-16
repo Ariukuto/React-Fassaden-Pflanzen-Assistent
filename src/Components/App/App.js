@@ -70,7 +70,7 @@ export const App = () => {
         />
       </Navbar>
       <div className='App-body'>
-        <div className='sidebar-container'>
+        <div className='sidebar-container' style={{borderRight: config.sidebar.border}}>
           <Sidebar 
             appState={state}
             onSelected={(v) => stateUpdate(v)}
