@@ -10,7 +10,7 @@ Eine Demo kann <a href="https://ariukuto.github.io/React-Fassaden-Pflanzen-Assis
 1. Falls noch nicht getan, node.js hier runterladen und installieren [link](https://nodejs.org/dist/v18.15.0/node-v18.15.0-x64.msi)
 2. Mit `git clone https://github.com/Ariukuto/React-Fassaden-Pflanzen-Assistent.git` Reposistory klonen
 3. In den Ordner wechseln
-4. Rechtklick auf eine leere Fläche und im Kontextmennü `im Terminal öffnen` anklicken
+4. Rechtsklick auf eine leere Fläche und im Kontextmennü `im Terminal öffnen` anklicken
 5. npm start in die console eingeben (Projekt wird lokal ausgeführt)
 6. Änderungen in der config machen, speichern
 7. prüfen ob es funktioniert
