@@ -45,35 +45,35 @@ export const Sidebar = ({appState, onSelected, onFilterReset, onLayoutChange}) =
 				/>
 				<SelectComponent
 					className="SelectComponent"
-					label={"Winterhärtezone"}
+					label={"Welche Winterhärtezone haben sie Vorort?"}
 					value={winterHardinessZone} 
 					object={WinterHardinessZones} 
 					onValueChanged={(option) => onSelected({type: "winterHardinessZone", selected: option})}
 				/>
 				<SelectComponent
 					className="SelectComponent"
-					label={"Pflegestufe"}
+					label={"Wie viel Pflege sind sie bereit in ihre Pflanzen zu investieren?"}
 					value={careLevel}
 					object={Pflegestufen} 
 					onValueChanged={(optionObj) =>  onSelected({type: "careLevel", selected: optionObj})}
 				/>
 				<SelectComponent
 					className="SelectComponent"
-					label={"Exposition"}
+					label={"Welche Exposition liegt bei ihnen vor?"}
 					value={exposition}
 					object={Expositions} 
 					onValueChanged={(optionObj) => onSelected({type: "exposition", selected: optionObj})}
 				/>
 				<SelectComponent
 					className="SelectComponent"
-					label={"Laubphase"}
+					label={"Welche Laubphase bevorzugen sie?"}
 					value={foliagePhase}
 					object={Laubphasen} 
 					onValueChanged={(optionObj) =>  onSelected({type: "foliagePhase", selected: optionObj})}
 				/>
 				<SelectComponent
 					className="SelectComponent"
-					label={"Laubfarben"}
+					label={"Welche Laubfarben bevorzugen sie?"}
 					value={foliageColors}
 					object={Laubfarben} 
 					multi={true} 
@@ -81,7 +81,7 @@ export const Sidebar = ({appState, onSelected, onFilterReset, onLayoutChange}) =
 				/>
 				<SelectComponent
 					className="SelectComponent"
-					label={"Blütenfarben"}
+					label={"Welche Blütenfarben bevorzugen sie?"}
 					value={flowerColors}
 					object={Bluetenfarben} 
 					multi={true} 
