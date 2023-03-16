@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/React-Fassaden-Pflanzen-Assistent/static/css/main.1afe9de5.css",
-    "main.js": "/React-Fassaden-Pflanzen-Assistent/static/js/main.dbd7570f.js",
+    "main.js": "/React-Fassaden-Pflanzen-Assistent/static/js/main.6da4bf55.js",
     "static/js/787.ee636535.chunk.js": "/React-Fassaden-Pflanzen-Assistent/static/js/787.ee636535.chunk.js",
     "static/media/material-icons.woff": "/React-Fassaden-Pflanzen-Assistent/static/media/material-icons.4d73cb90e394b34b7670.woff",
     "static/media/material-icons.woff2": "/React-Fassaden-Pflanzen-Assistent/static/media/material-icons.0c35d18bf06992036b69.woff2",
     "index.html": "/React-Fassaden-Pflanzen-Assistent/index.html",
     "main.1afe9de5.css.map": "/React-Fassaden-Pflanzen-Assistent/static/css/main.1afe9de5.css.map",
-    "main.dbd7570f.js.map": "/React-Fassaden-Pflanzen-Assistent/static/js/main.dbd7570f.js.map",
+    "main.6da4bf55.js.map": "/React-Fassaden-Pflanzen-Assistent/static/js/main.6da4bf55.js.map",
     "787.ee636535.chunk.js.map": "/React-Fassaden-Pflanzen-Assistent/static/js/787.ee636535.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1afe9de5.css",
-    "static/js/main.dbd7570f.js"
+    "static/js/main.6da4bf55.js"
   ]
 }
