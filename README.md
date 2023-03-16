@@ -1,7 +1,7 @@
 # Fassaden Pflanzen Assistent
 
 ## Beschreibung
-Dieses Tool wird im ehrenamtlich im Auftrag für https://fassaden-begruenung.org entwickelt.  
+Dieses Tool wird ehrenamtlich für https://fassaden-begruenung.org entwickelt.  
 Es soll Nutzern dabei helfen, anhand bestimmter Kriterien, die richtige oder die richtigen Pflanzen zu finden.  
 Das Tool verkleinert also die Auswahl anhand der angegeben Kriterien.
 Eine Demo kann <a href="https://ariukuto.github.io/React-Fassaden-Pflanzen-Assistent/"> hier <a> angesehen werden.
